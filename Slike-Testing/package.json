@@ -34,7 +34,7 @@
     "build": "node build/index.js"
   },
   "type": "module",
-  "name": "oras",
+  "name": "Slike",
   "version": "5.0.0",
   "description": "Best Music bot of discord in typescript",
   "main": "index.js",
@@ -55,7 +55,7 @@
     "shoukaku",
     "kazagumo"
   ],
-  "author": "Sikku",
+  "author": "Prince",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Sikku9464/Oras/issues"

@@ -12,4 +12,5 @@ export default client;
 ["unhandledRejection", "uncaughtException"].forEach((x) => {
     process.on(x, (e) => console.error("Slike | ", e));
 });
-//# sourceMappingURL=oras.js.map
+
+
